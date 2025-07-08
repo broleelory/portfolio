@@ -1,74 +1,86 @@
-# 👋 안녕하세요! 이진우입니다 😊
-
-저는 꾸준히 성장하는 **백엔드 개발자**이며, 클린 코드와 확장 가능한 아키텍처를 지향합니다.  
-주로 **Java, Spring Boot**, 그리고 **AWS 클라우드** 기반 인프라에 관심이 많습니다.  
-사이드 프로젝트를 통해 다양한 기술 스택을 경험하고, 사용자 중심의 서비스를 만드는 데에 열정을 가지고 있습니다.
+# 📜 이진우 포트폴리오  
+**이진우 (Jinwoo Lee) – @your-github-id**
 
 ---
 
-## 🛠️ 기술 스택
+## 👋 Intro
 
-**Backend**
-- Java, Spring Boot, Spring Security, JPA, QueryDSL
-- Node.js (Express), Python (Flask, FastAPI)
+안녕하세요!  
+**"한 줄 소개 문장"** (예: 도전과 꾸준함을 무기로 성장하는 개발자 이진우입니다!)  
 
-**Frontend**
-- HTML/CSS, JavaScript (ES6+), React (기초 수준)
+[팀 또는 학습 경험 소개]  
+[무엇을 배우고, 어떤 식으로 성장했는지]  
+[콘텐츠를 만들거나 지식을 나눈 경험이 있다면 간단히 언급]  
 
-**DevOps / Infra**
-- AWS (EC2, RDS, S3, CloudFront), Docker, Nginx
-- GitHub Actions, Git, Linux (Ubuntu)
-
-**Database**
-- MySQL, PostgreSQL, MongoDB, Redis
-
-**Etc**
-- Jira, Notion, Slack, Figma
+저에 대한 더 자세한 내용은 아래 링크들을 통해 확인하실 수 있습니다!
 
 ---
 
-## 🧩 프로젝트
+## 📝 Projects
 
-### 📌 [Devlog 플랫폼 – DevJin](https://github.com/jinwoo-dev/devjin)
-> 개발자들을 위한 기술 블로그 플랫폼 (2024.04 ~ 2024.06)
-
-- Spring Boot + JPA + AWS 기반 백엔드 REST API 설계
-- JWT 인증 및 Spring Security를 통한 보안 구현
-- GitHub Markdown 연동 기능 및 이미지 업로드 (S3 사용)
-- Docker & Nginx를 활용한 CI/CD 환경 구성
-
-기술 스택: `Spring Boot`, `JPA`, `AWS`, `Docker`, `MySQL`, `Redis`
+**진행한 프로젝트들입니다.**  
+[팀원들과 협업하거나 팀장을 맡은 경우 역할 설명]  
+[기술적인 기여나 맡았던 핵심 기능 등 강조]
 
 ---
 
-### 📌 [모두의스터디 – 온라인 스터디 플랫폼](https://github.com/jinwoo-dev/modustudy)
-> 사용자 간의 스터디 매칭 및 커뮤니케이션 플랫폼
+### 1. 🧭 [프로젝트 이름]  
+> [간단한 한 줄 소개]  
 
-- 실시간 채팅 및 스터디 신청/승인 기능 구현
-- 스터디 추천 알고리즘 간단 구현 (Spring Scheduler)
-- 프론트는 React 기반으로 팀원과 협업
+- 개발기간: [yyyy.mm.dd – mm.dd]  
+- 핵심 역할: [예: 팀장, 추천 알고리즘 개발, 프론트 구현 등]
 
-기술 스택: `Spring Boot`, `WebSocket`, `MySQL`, `React`
+**Back-end**  
+- Language: [예: Python3, Java, etc]  
+- Skill: [예: Django, Spring, REST API, PostgreSQL 등]  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinwoo-dev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinwoo-dev&layout=compact&theme=tokyonight" />
-</p>
+**Front-end** *(필요 시)*  
+- Language: [예: JavaScript, TypeScript]  
+- Skill: [예: React, Vue 등]  
 
 ---
 
-## ✉️ 연락처
+### 2. 📦 [프로젝트 이름]  
+> [간단한 소개]  
 
-- Email: jinwoo.dev@gmail.com  
-- Blog: [https://jinwoo-devlog.tistory.com](https://jinwoo-devlog.tistory.com)  
-- LinkedIn: [https://linkedin.com/in/jinwoo-dev](https://linkedin.com/in/jinwoo-dev)
+- 개발기간: [yyyy.mm.dd – mm.dd]  
+- 핵심 역할: [역할 및 기여 기술]
+
+**사용 기술**  
+- Language: [ ]  
+- Skill: [ ]
 
 ---
 
-> 꾸준함은 실력보다 강력하다고 믿습니다.  
-> 하루 한 줄이라도 성장하는 개발자가 되겠습니다! 🚀
+### 3. 🧠 [프로젝트 이름]  
+> [간단한 소개]  
 
+- 개발기간: [yyyy.mm.dd – mm.dd]  
+- 핵심 역할: [역할 및 기여 기술]
+
+**사용 기술**  
+- Language: [ ]  
+- Skill: [ ]
+
+---
+
+*(필요한 만큼 프로젝트 계속 추가 가능)*
+
+---
+
+## 🎞 YouTube (선택)
+
+> [영상 콘텐츠 또는 기술 영상 링크]  
+> [예: 프로젝트 리뷰, 코드 설명 등]  
+> [More videos...](#)
+
+---
+
+## 📞 Contact
+
+- 📧 Email: [your.email@example.com]  
+- 📝 Blog: [https://your-blog-link.com]  
+- 🐙 GitHub: https://github.com/your-github-id  
+- 🎬 YouTube: [https://youtube.com/yourchannel]  
+
+---
