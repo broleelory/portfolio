@@ -84,3 +84,19 @@
 - 🎬 YouTube: [https://youtube.com/yourchannel]  
 
 ---
+
+
+# 👋 Hi, I'm Jane Doe
+
+## 🚀 Tech Stack
+- Frontend: React, Next.js, TypeScript
+- Backend: Node.js, Express, MongoDB
+- DevOps: Docker, AWS, GitHub Actions
+
+## 🧩 Projects
+- 🛒 [ShopIt](https://github.com/janedoe/shopit): 이커머스 풀스택 앱
+- 🎮 [Gamely](https://github.com/janedoe/gamely): WebSocket 기반 실시간 게임
+
+## 📬 Contact
+- Blog: [janedev.log](https://janedev.blog)
+- Email: jane.dev@gmail.com
