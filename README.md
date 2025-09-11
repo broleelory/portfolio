@@ -1,5 +1,5 @@
 # 📜 이진우 포트폴리오
-**이진우 (Jinwoo Lee) – [GitHub](https://github.com/your-github-id)**
+**이진우 (Jinwoo Lee) – [GitHub](https://github.com/broleelory)**
 
 ---
 
