@@ -13,11 +13,11 @@
 
 ## 📝 Projects
 
-### 🧭 AI 기반 장애인 전용 주차관리 시스템 (PROJECT_03)
+### 🧭 AI 기반 장애인 전용 주차관리 시스템
 > 🚗 장애인 주차구역 불법 주정차 및 방해 행위를 실시간 감지하는 AI 시스템  
 > 🖥 라즈베리파이 엣지 디바이스 기반 영상 처리와 WebSocket 통신 포함
 
-- **개발기간:** 2025.08 – 진행 중  
+- **개발기간:** 2025.08.01 – 2025.09.09  
 - **핵심 역할:** 백엔드 서버 개발, AI 모델 연동, 영상 처리 및 DB 설계
 
 **Back-end**  
@@ -26,7 +26,7 @@
 
 **Front-end**  
 - 💻 Language: JavaScript  
-- ⚙️ Skill: React, Axios, 실시간 데이터 시각화  
+- ⚙️ Skill: React, Axios, 영상 정보 페이지 구현  
 
 **AI / Edge Device**  
 - 💻 Language: Python  
@@ -37,16 +37,16 @@
 ### 📦 귀어로드
 > 🐟 귀어귀촌 입문자를 위한 통합 정보 기반 어업 창업 지원 플랫폼
 
-- **개발기간:** 2024.12 – 2025.02  
-- **핵심 역할:** 백엔드 및 프론트엔드 개발, 팀 협업
+- **개발기간:** 2025.05.30 – 2025.07.07  
+- **핵심 역할:** 백엔드 및 프론트엔드 개발,챗봇 API, 네이버지도 API 사용
 
 **Back-end**  
-- 💻 Language: Java, Spring  
+- 💻 Language: node, Express  
 - ⚙️ Skill: REST API, MySQL, 서버 구조 설계  
 
 **Front-end**  
 - 💻 Language: JavaScript  
-- ⚙️ Skill: React, Chart.js, UI/UX 구현  
+- ⚙️ Skill: React, UI/UX 구현  
 
 ---
 
