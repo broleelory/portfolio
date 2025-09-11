@@ -51,7 +51,7 @@
 ---
 
 ## 🎞 YouTube (선택)
-> 📺 [프로젝트 리뷰 및 기술 영상](#)  
+> 📺 [프로젝트 리뷰 및 기술 영상](#https://youtu.be/VDcK_WgnY1Q?si=tgBhnAjhNwI81Ky3)  
 
 ---
 
